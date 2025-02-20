@@ -1,2 +1,2 @@
 # website
-Cyber Jedis Student Organization In Progress Website
+this is the cyber jedis student organization website code
